@@ -12,7 +12,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNekoNyangYee&count_bg=%235470D3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-✏️ **My Main tech**
+### ✏️ **My Main tech**
 <hr />
 
 여러 프로젝트와 학습을 통해 다음 기술들에 익숙해졌습니다:
