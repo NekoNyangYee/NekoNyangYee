@@ -21,10 +21,15 @@
 ### 🔹Library && FrameWorks Skills
  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/> 
 
-### CSS Skills
+### ✔️ CSS Skills
 <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"/> <img src="https://img.shields.io/badge/emotion-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=F7DF1E"/> 
 
-🌱 **Learning and Growing**
+### 📁 State Library
+<img src="https://img.shields.io/badge/Zustand-3178C6?style=for-the-badge&logo=&logoColor=white"/>
 
-지속적인 배움을 통해 개인의 기술 스택을 확장하고 있으며, 사용자 중심의 디자인과 성능 최적화를 고려한 프론트엔드 개발에 주력하고 있습니다. 현재는 React와 Next.js를 더 깊이 있게 탐구하며, 상태 관리와 서버사이드 렌더링에 대한 이해를 넓히고 있습니다.
+## 🌱 **Learning and Growing**
+아래는 제가 배우고 싶은 것들을 쭉 나열해봤어요. 나중에 익숙해질정도로 사용성이 높아지면 ✏️ **My Main tech**
+에 넣어볼 생각이에요.
+
+<img src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/vanillaExtract-9ECBFF?style=for-the-badge&logo=&logoColor=white"/>
 </div>
