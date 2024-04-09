@@ -33,6 +33,9 @@
 ### ⚙️ Deploy
 <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
+### Dev Tools
+<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
 ## 🌱 **Want to learn**
 아래는 제가 배우고 싶은 것들을 쭉 나열해봤어요. 나중에 익숙해질정도로 사용성이 높아지면 ✏️ **My Main tech**
 에 넣어볼 생각이에요.
