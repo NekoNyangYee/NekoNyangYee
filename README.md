@@ -21,13 +21,10 @@
 ### 💻 Backend
 
 ### 🔹Library & FrameWorks
- <img src="https://img.shields.io/badge/React-33302E?style=for-the-badge&logo=React&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/React-33302E?style=for-the-badge&logo=React&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Zustand-3178C6?style=for-the-badge&logo=&logoColor=white"/>
 
 ### ✔️ CSS
 <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"/> <img src="https://img.shields.io/badge/emotion-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=F7DF1E"/> 
-
-### 📁 State Library
-<img src="https://img.shields.io/badge/Zustand-3178C6?style=for-the-badge&logo=&logoColor=white"/>
 
 ### 🚧 Version Control
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
