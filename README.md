@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 ### 🔹Library & FrameWorks
- <img src="https://img.shields.io/badge/React-33302E?style=for-the-badge&logo=React&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Zustand-3178C6?style=for-the-badge&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+ <img src="https://img.shields.io/badge/React-33302E?style=for-the-badge&logo=React&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Zustand-3178C6?style=for-the-badge&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 
 ### Database
 <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -42,5 +42,5 @@
 아래는 제가 배우고 싶은 것들을 쭉 나열해봤어요. 나중에 익숙해질정도로 사용성이 높아지면 ✏️ **My Main tech**
 에 넣어볼 생각이에요.
 
-  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/vanillaExtract-9ECBFF?style=for-the-badge&logo=&logoColor=white"/>  <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/vanillaExtract-9ECBFF?style=for-the-badge&logo=&logoColor=white"/>  <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/> 
 </div>
