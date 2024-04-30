@@ -4,7 +4,7 @@
 
 프로젝트를 통해 배움을 실천하고, 최신 기술 트렌드에 발맞춰 나아가며, 사용자와 소통할 수 있는 인터랙티브한 웹 경험을 만드는 것에 열정을 가지고 있습니다.
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; justify-content: space-between;">
+<div style="display: flex; justify-content: center; align-items: center; justify-content: space-between;">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=NekoNyangYee&show_icons=true&theme=vue-dark" />
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoNyangYee&layout=compact" />
 </div>
@@ -28,11 +28,14 @@
 ### 🔹Library & FrameWorks
  <img src="https://img.shields.io/badge/React-33302E?style=for-the-badge&logo=React&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Zustand-3178C6?style=for-the-badge&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"/> 
 
-### Database
+### 🗃️ Database
 <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 ### 🚧 Version Control
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
+
+### 📦 Package Manger
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/> <img src="https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/> 
 
 ### ⚙️ Deploy
 <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
