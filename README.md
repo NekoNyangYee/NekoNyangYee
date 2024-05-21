@@ -4,10 +4,8 @@
 
 프로젝트를 통해 배움을 실천하고, 최신 기술 트렌드에 발맞춰 나아가며, 사용자와 소통할 수 있는 인터랙티브한 웹 경험을 만드는 것에 열정을 가지고 있습니다.
 
-<div style="display: flex; justify-content: center; align-items: center; justify-content: space-between;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=NekoNyangYee&show_icons=true&theme=vue-dark" />
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoNyangYee&layout=compact" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=NekoNyangYee&show_icons=true&theme=vue-dark" />
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=best081225)](https://solved.ac/best081225)
   
@@ -56,5 +54,5 @@
 아래는 제가 배우고 싶은 것들을 쭉 나열해봤어요. 나중에 익숙해질정도로 사용성이 높아지면 ✏️ **My Main tech**
 에 넣어볼 생각이에요.
 
-  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/vanillaExtract-9ECBFF?style=for-the-badge&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/vanillaExtract-9ECBFF?style=for-the-badge&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/> 
 </div>
