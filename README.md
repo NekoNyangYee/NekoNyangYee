@@ -3,15 +3,18 @@
 안녕하세요! 현재 프론트엔드 개발의 세계를 탐험 중인 대학생, NekoNyangYee입니다! 🚀
 
 프로젝트를 통해 배움을 실천하고, 최신 기술 트렌드에 발맞춰 나아가며, 사용자와 소통할 수 있는 인터랙티브한 웹 경험을 만드는 것에 열정을 가지고 있습니다.
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=NekoNyangYee&show_icons=true&theme=vue-dark" width="500" /></td>
+    <td><a href="https://solved.ac/best081225"><img src="http://mazassumnida.wtf/api/generate_badge?boj=best081225" width="500" /></a></td>
+  </tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=NekoNyangYee&show_icons=true&theme=vue-dark" />
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=best081225)](https://solved.ac/best081225)
-  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNekoNyangYee&count_bg=%235470D3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=조회수&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NekoNyangYee)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NekoNyangYee&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <hr />
 
