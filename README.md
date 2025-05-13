@@ -5,19 +5,11 @@
 <br />
 
 <!-- 첫 줄: GitHub Stats + Solved.ac 같이 배치 -->
-<img src="https://github-readme-stats.vercel.app/api?username=NekoNyangYee&show_icons=true&theme=vue-dark" width="48%" />
+![](https://raw.githubusercontent.com/NekoNyangYee/github-stats-transparent/eebb87e790169a7f25c001710f6ad504b8d5c1c4/generated/languages.svg)
+![](https://raw.githubusercontent.com/NekoNyangYee/github-stats-transparent/eebb87e790169a7f25c001710f6ad504b8d5c1c4/generated/overview.svg)
 <a href="https://solved.ac/best081225">
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=best081225" width="40%" />
 </a>
-
-<!-- 다음 줄: Top Langs -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoNyangYee&layout=compact" width="40%" />
-<br /><br />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NekoNyangYee&theme=github" width="100%" />
-
-</div>
-
----
 
 <h2 align="center">🚀 Languages & Tech Stack</h2>
 
