@@ -11,6 +11,7 @@
 <a href="https://solved.ac/best081225">
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=best081225" width="40%" />
 </a>
+<img src="https://github-readme-stats.vercel.app/api?username=NekoNyangYee&show_icons=true&theme=vue-dark" width="48%" />
 
 <h2 align="center">🚀 Languages & Tech Stack</h2>
 
