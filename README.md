@@ -45,6 +45,11 @@
 </p>
 
 ---
+<h3 align="center">♾️ CI/CD</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/githubactions-000000?style=for-the-badge&logo=githubactions&logoColor=#2088FF"/>
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
 <h3 align="center">⚙️ Deploy & Tools</h3>
 <p align="center">
