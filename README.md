@@ -1,5 +1,6 @@
 <div align=center>
-  <img width="678" height="164" alt="Group 6" src="https://github.com/user-attachments/assets/eb00cf9b-7e8b-4b41-ba64-c5ed7181cbd0" />
+  <img width="678" height="164" alt="Group 6" src="https://github.com/user-attachments/assets/099bb7fe-17b3-45e5-8d77-eb04df6da3fa" />
+
 </div>
 
 ## 🚀 Languages & Tech Stack
