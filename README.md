@@ -63,7 +63,7 @@
 </p>
 
 ### 📊 My Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NekoNyangYee&show_icons=true&theme=vue-dark)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=NekoNyangYee&theme=ambient-gradient&hide_border=true&border_radius=12)](https://git.io/streak-stats)
+[![NekoNyangYee's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=NekoNyangYee)](https://github.com/pranesh-2005/github-readme-stats-fast)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=best081225)](https://solved.ac/best081225)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NekoNyangYee&layout=compact&bg_color=180,464749,00000000&title_color=ffffff&text_color=ffffff)  
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NekoNyangYee&langs&layout=compact)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=NekoNyangYee&theme=radical)](https://github.com/NekoNyangYee/github-readme-stats-fast)
