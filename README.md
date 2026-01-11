@@ -63,7 +63,7 @@
 </p>
 
 ### 📊 My Stats
-[![NekoNyangYee's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=NekoNyangYee)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![NekoNyangYee's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=NekoNyangYee)](https://github.com/NekoNyangYee/github-readme-stats-fast)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=best081225)](https://solved.ac/best081225)  
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NekoNyangYee&langs&layout=compact)
 [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=NekoNyangYee&theme=radical)](https://github.com/NekoNyangYee/github-readme-stats-fast)
